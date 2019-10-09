@@ -3,10 +3,10 @@
 ## Section 1 – Motivation for Your App
 This is why I chose this app I am not a big gambler but I know a lot of people who are. My first choice was to have a sports gambling app since they just legalized sports gambling. The only reason I didn’t go with this is because the odds change on a regular bases and it would seem like I would have time to complete on time. This site is a example [Luck Lottery] (http://www.lotterynumbergenerator.net/lottery-number-generator-app) . This site is currently available on android store.
 
-##Section 2 - Meeting Minimum Requirements
+## Section 2 - Meeting Minimum Requirements
 
-![Pr4ojectimage](/img/)
-###2.1 User Interface.
+
+### 2.1 User Interface.
 1.	This application shall work in portrait and landscape format. You will be able to flip the screen and see that it will render in both formats without loosing any content. I haven’t decided which type of layout to use to do this yet because the only layouts we have worked with so far is constraint, frames, and linear layouts. With more research, I should be able to properly find the right fit for the project.
 
 2.	Right now, I am pretty sure that this project will not need any exceptions. Everything will be wrapped in some sort of container that it will look good In either landscape or portrait layout.
@@ -15,8 +15,10 @@ This is why I chose this app I am not a big gambler but I know a lot of people w
 3.	I will be testing this app on not only the Samsung Tab 10.1 and Nexus Asus 7 but also I have my own personal phone that I will also test it on. It just happens to be the Samsung Galaxy Note 8.
 
 4.	I can make sure no exception I will test it with every device I can get my hands on. 
+
 5.	You must submit diagrams for all the different screens in your app (both portrait and landscape configurations), one diagram per screen. These diagrams must clearly show the layout of your app’s screens, i.e., where images, menus, widgets, views, etc., appear. These can be hand drawn with a .png submitted of the drawing.
 
+![Pr4ojectimage](/img/mockup.png)
 ### 2.2 Data Persistence
 1.	Your app must demonstrate that it saves data from one use to another
 2.	To test this, your app will be shut down by an onDestroy() event, and then restarted
